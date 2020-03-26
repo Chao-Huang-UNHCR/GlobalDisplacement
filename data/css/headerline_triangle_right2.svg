@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="70">
+  <g transform="translate(0 32.9583)">
+    <path fill="none" d="M-1-1h582v402H-1z"/>
+  </g>
+  <g stroke-width=".1" transform="matrix(-.99901 0 0 1.00192 394.0272 39.2032)">
+    <g stroke="#0072bc" stroke-width=".3998">
+      <path fill="none" stroke-linecap="round" d="M-25.891 18.8781l63.4931.2863 7.0166 11.4717M44.6187 30.6361l5.6834-11.604"/>
+      <path fill="#0072bc" d="M50.3021 19.0322l344.0115.028"/>
+    </g>
+  </g>
+</svg>
